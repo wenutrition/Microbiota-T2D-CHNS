@@ -1,11 +1,9 @@
 Association of gut microbiota with glycemic traits and incident type 2 diabetes and modulation by habitual diet: a population-based longitudinal cohort study in Chinese adults
 
-Copyright
 Copyright: Prof. Ju-Sheng Zheng
 Institution: School of Life Sciences, Westlake University, Hangzhou, China Email: zhengjusheng@westlake.edu.cn
 
-Author
- Author:     Wanglong Gou    
+Author:     Wanglong Gou    
 Last update: 2021-11-27
 Email: gouwanglong@westlake.edu.cn
 
