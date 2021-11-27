@@ -21,7 +21,7 @@ Function: Pipline of preprocessing and statistic analysis
 1.2 Predict.py
 Function: Using LightGBM to predict the northern and southern China with gut microbiota.
 
-1.3 PERMERNOVA.py
+1.3 PERMERNOVA.R
 Function: Beta diversity analysis
 
 
