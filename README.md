@@ -12,11 +12,15 @@ Environment
   Stata  version: 15
   R      version: 3.5.3
   Main   packages: sklearn, shap, pandas, numpy,lightgbm
+  
 1. Scripts
+
 1.1 Statistic.do
 Function: Pipline of preprocessing and statistic analysis
-1.1 Predict.py
+
+1.2 Predict.py
 Function: Using LightGBM to predict the northern and southern China with gut microbiota.
+
 1.3 PERMERNOVA.py
 Function: Beta diversity analysis
 
